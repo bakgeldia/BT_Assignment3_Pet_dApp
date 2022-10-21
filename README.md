@@ -52,10 +52,18 @@ Click on the dropdown arrow in the setPet function to expand the input boxes. Fi
 <br><img src="images/19.png">
 <br><img src="images/20.png">
 <br><img src="images/21.png">
+<br><img src="images/22.png">
+<br><img src="images/23.png">
 
 ### Creating the SetNewPet Function
+<br><img src="images/24.png">
 
 ### Creating the getCurrentPet Function
+<br><img src="images/25.png">
+<br><img src="images/26.png">
 
-# Testing Our dApp
-
+# Testing the dApp
+<br><img src="images/27.png">
+<br><img src="images/28.png">
+<br><img src="images/29.png">
+<br><img src="images/30.png">
