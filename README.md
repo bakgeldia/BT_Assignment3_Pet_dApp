@@ -45,6 +45,8 @@ Click on the dropdown arrow in the setPet function to expand the input boxes. Fi
 <br><img src="images/16.png">
 
 ### Building the Pet Details Section
+<br><img src="images/17.png">
+<br><img src="images/18.png">
 
 ### Creating the Signer Logic
 
