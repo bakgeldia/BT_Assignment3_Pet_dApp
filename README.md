@@ -23,13 +23,15 @@ Navigate to <a href='faucets.chain.link'>Faucets</a>. Connect with your Metamask
 <br><img src="images/6.png">
 
 ### Deploying the Smart Contract
+Navigate to the "Deploy and Run Transactions" section. Select "Injected Web3" as the environment. Click on the "Deploy" button to deploy our smart contract on the Goerli Testnet. We'll be prompted to confirm the contract deployment gas fee. We see our smart contract name under the "Deployed Contracts" section, as shown below:
 <br><img src="images/7.png">
 <br><img src="images/8.png">
 <br><img src="images/9.png">
-<br><img src="images/10.png">
-<br><img src="images/11.png">
 
 ### Testing the Smart Contract
+Click on the dropdown arrow in the setPet function to expand the input boxes. Fill the input boxes with your pet's details and click on the "Transact" button. Confirm the transaction gas fee. Check each funtion by clicking on the buttons.
+<br><img src="images/10.png">
+<br><img src="images/11.png">
 
 ## Building the Front End
 
