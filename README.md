@@ -7,9 +7,10 @@
 ## Solidity IDE(REMIX)
 
 ### Creation of Smart Contract
-<br><img src="images/1.png">
+<br><img src="images/2.png">
 
 ### Compiling the Smart Contract
+<br><img src="images/1.png">
 
 ### Getting Goerli Testnet Token
 
