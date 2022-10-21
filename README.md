@@ -22,6 +22,11 @@
 <br><img src="images/6.png">
 
 ### Testing the Smart Contract
+<br><img src="images/7.png">
+<br><img src="images/8.png">
+<br><img src="images/9.png">
+<br><img src="images/10.png">
+<br><img src="images/11.png">
 
 ## Building the Front End
 
