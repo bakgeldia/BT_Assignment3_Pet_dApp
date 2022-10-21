@@ -31,8 +31,13 @@
 ## Building the Front End
 
 ### Installing Ethers.js
+<br><img src="images/12.png">
+<br><img src="images/13.png">
+<br><img src="images/14.png">
 
 ### Building the Pet Form
+<br><img src="images/15.png">
+<br><img src="images/16.png">
 
 ### Building the Pet Details Section
 
