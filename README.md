@@ -13,8 +13,13 @@
 <br><img src="images/1.png">
 
 ### Getting Goerli Testnet Token
+<br><img src="images/1.png">
 
 ### Deploying the Smart Contract
+<br><img src="images/3.png">
+<br><img src="images/4.png">
+<br><img src="images/5.png">
+<br><img src="images/6.png">
 
 ### Testing the Smart Contract
 
